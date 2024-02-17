@@ -1,5 +1,5 @@
 # calorieCalculator
 Calculate Food calories based on Weight, Height and Age
 
+![image](https://github.com/jagadishsail/calorieCalculator/assets/95681216/b553ede9-93a7-426c-a520-1458a7d57d0c)
 
-![image](https://github.com/jagadishsail/calorieCalculator/assets/95681216/5dfbdb4e-5e5e-4783-a924-3a2f99ed80a3)
